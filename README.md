@@ -5,7 +5,7 @@ An interactive Power BI dashboard built using the H&M Personalized Fashion Recom
 
 **📊 Dashboard Preview**
 
-Show Image
+[Show Image](https://github.com/BT20-code/H-M-2020-Dashboard/blob/main/H%26M%202020%20Final%20Dashboard.jpg)
 
 **📌 Project Overview**
 
@@ -87,9 +87,13 @@ A slicer that dynamically updates every visual — KPI cards, category revenue, 
 
 **💡 Key Business Insights**
 **📈 Category Performance —** Quickly identifies which merchandise categories contribute the highest revenue, enabling better assortment planning.
+
 **🛍 Product Performance —** Highlights the highest revenue-generating SKUs, helping buyers prioritize replenishment and identify hero products.
+
 **🌐 Channel Strategy —** Compares Online and In-Store sales distribution across merchandise groups, supporting omnichannel decision-making.
+
 **📅 Sales Trend Monitoring —** Tracks revenue movement across months to surface seasonal demand patterns.
+
 **📊 Executive Reporting —** Consolidates multiple retail performance metrics into a single interactive dashboard, reducing manual reporting effort.
 
 **⚡ Challenges & Solutions**
@@ -103,6 +107,7 @@ Dashboard performance at scale	- Reduced model complexity through ETL and optimi
 Power BI Dashboard Development · Data Cleaning & Transformation · Power Query (ETL) · Python (Pandas) · DAX Measures & Calculations · Star Schema Data Modeling · Fact & Dimension Table Design · Interactive Dashboard Design · KPI Development · Retail Sales Analytics · Merchandising & Category Analysis · Business Intelligence · Data Visualization
 
 **🚀 Key Takeaways**
+
 Built an end-to-end retail analytics solution using Power BI and Python.
 Processed and modeled 31+ million retail transactions into an optimized Star Schema.
 Developed dynamic KPIs and interactive dashboards using DAX and Power Query.
