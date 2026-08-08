@@ -6,7 +6,6 @@ An interactive Power BI dashboard built using the H&M Personalized Fashion Recom
 
 <img width="1155" height="649" alt="H M 2020 Final Dashboard" src="https://github.com/user-attachments/assets/6320aec8-ec62-4954-bfe9-8bad09658674" />
 
-
 ## 📌 Project Overview
 
 Fashion retailers generate millions of transactions every month, making it difficult to identify high-performing products, monitor category performance, and understand customer purchasing behavior through raw transactional data.
@@ -28,7 +27,7 @@ This project demonstrates an end-to-end Business Intelligence workflow by prepro
 | 📊 Power BI Desktop | Dashboard development & visualization |
 | 🔄 Power Query | Data cleaning, transformation & ETL |
 | 🧠 DAX | Dynamic KPIs and business calculations |
-| 🐍 Python (Pandas) | Data preprocessing, merging datasets & model preparation |
+| 🐍 Python (Pandas) | Used with AI-assisted coding to prepare and structure the dataset for Power BI analysis |
 | 🗂 Star Schema | Optimized dimensional data modeling |
 
 ## 📂 Data Source
@@ -36,7 +35,7 @@ This project demonstrates an end-to-end Business Intelligence workflow by prepro
 **Dataset:** H&M Personalized Fashion Recommendations
 **Source:** Kaggle
 
-The project uses H&M's public retail dataset containing 31+ million customer transactions along with product metadata. Only the **Transactions** and **Articles** datasets were used for analysis — Python was used to merge and preprocess the data into a centralized `FactSales` table supported by multiple dimension tables following a Star Schema design.
+The project uses H&M's public retail dataset containing 31+ million customer transactions along with product metadata. Only the **Transactions** and **Articles** datasets were used for analysis — Python (with AI-assisted coding) was used to merge and preprocess the data into a centralized `FactSales` table supported by multiple dimension tables following a Star Schema design.
 
 ## 🏗 Data Model
 
@@ -98,18 +97,19 @@ A slicer that dynamically updates every visual — KPI cards, category revenue, 
 
 | Challenge | Solution |
 |---|---|
-| Large retail dataset (31M+ transactions) | Preprocessed and optimized data using Python (Pandas) |
+| Large retail dataset (31M+ transactions) | Preprocessed and optimized data using Python/Pandas with AI-assisted coding |
 | Complex relationships between entities | Implemented a Star Schema data model |
 | Dynamic reporting requirements | Built reusable DAX measures and interactive filters |
 | Dashboard performance at scale | Reduced model complexity through ETL and optimized data modeling |
 
 ## 🎯 Skills Demonstrated
 
-Power BI Dashboard Development · Data Cleaning & Transformation · Power Query (ETL) · Python (Pandas) · DAX Measures & Calculations · Star Schema Data Modeling · Fact & Dimension Table Design · Interactive Dashboard Design · KPI Development · Retail Sales Analytics · Merchandising & Category Analysis · Business Intelligence · Data Visualization
+Power BI Dashboard Development · Data Cleaning & Transformation · Power Query (ETL) · Python/Pandas (AI-assisted coding) · DAX Measures & Calculations · Star Schema Data Modeling · Fact & Dimension Table Design · Interactive Dashboard Design · KPI Development · Retail Sales Analytics · Merchandising & Category Analysis · Business Intelligence · Data Visualization
 
 ## 🚀 Key Takeaways
 
 - Built an end-to-end retail analytics solution using Power BI and Python.
 - Processed and modeled 31+ million retail transactions into an optimized Star Schema.
+- Used AI-assisted coding to accelerate data preparation while directing the overall data structure and merge logic.
 - Developed dynamic KPIs and interactive dashboards using DAX and Power Query.
 - Delivered actionable insights to support merchandising, category management, and retail business decisions.
