@@ -22,10 +22,14 @@ This project demonstrates an end-to-end Business Intelligence workflow by prepro
 - How efficiently is the product assortment generating revenue?
 
 **🛠 Tech Stack**
-📊 Power BI - Desktop	Dashboard development & visualization 
+📊 Power BI - Desktop	Dashboard development & visualization
+
 🔄 Power Query	- Data cleaning, transformation & ETL 
+
 🧠 DAX	- Dynamic KPIs and business calculations 
+
 🐍 Python (Pandas)	- Data preprocessing, merging datasets & model preparation 
+
 🗂 Star Schema	- Optimized dimensional data modeling
 
 **📂 Data Source**
