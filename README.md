@@ -5,7 +5,7 @@ An interactive Power BI dashboard built using the H&M Personalized Fashion Recom
 
 **📊 Dashboard Preview**
 
-[Show Image](https://github.com/BT20-code/H-M-2020-Dashboard/blob/main/H%26M%202020%20Final%20Dashboard.jpg)
+https://github.com/BT20-code/H-M-2020-Dashboard/blob/main/H%26M%202020%20Final%20Dashboard.jpg
 
 **📌 Project Overview**
 
