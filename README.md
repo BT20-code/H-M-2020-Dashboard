@@ -15,17 +15,17 @@ Fashion retailers generate millions of transactions every month, making it diffi
 This project demonstrates an end-to-end Business Intelligence workflow by preprocessing retail data in Python, building a Star Schema data model, creating DAX measures, and developing an interactive Power BI dashboard that supports data-driven merchandising decisions.
 
 **❓ Business Questions Answered**
-Which product categories generate the highest revenue?
-Which SKUs contribute the most to overall sales?
-How does Online performance compare with Physical Stores?
-Which categories perform consistently throughout the year?
-How efficiently is the product assortment generating revenue?
+- Which product categories generate the highest revenue?
+- Which SKUs contribute the most to overall sales?
+- How does Online performance compare with Physical Stores?
+- Which categories perform consistently throughout the year?
+- How efficiently is the product assortment generating revenue?
 
 **🛠 Tech Stack**
-📊 Power BI - Desktop	Dashboard development & visualization
-🔄 Power Query	- Data cleaning, transformation & ETL
-🧠 DAX	- Dynamic KPIs and business calculations
-🐍 Python (Pandas)	- Data preprocessing, merging datasets & model preparation
+📊 Power BI - Desktop	Dashboard development & visualization 
+🔄 Power Query	- Data cleaning, transformation & ETL 
+🧠 DAX	- Dynamic KPIs and business calculations 
+🐍 Python (Pandas)	- Data preprocessing, merging datasets & model preparation 
 🗂 Star Schema	- Optimized dimensional data modeling
 
 **📂 Data Source**
