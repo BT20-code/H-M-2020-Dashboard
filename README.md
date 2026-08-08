@@ -1,4 +1,4 @@
-# 🛍 H&M Sales Performance Dashboard | Power BI
+# 🛍 H&M Retail Sales Analytics Dashboard | Power BI
 
 An interactive Power BI dashboard built using the H&M Personalized Fashion Recommendations dataset (31 million+ retail transactions) to analyze sales performance across product categories, sales channels, and SKUs. The dashboard transforms large-scale retail data into actionable insights for merchandising, category management, and business decision-making through dynamic KPIs and interactive visualizations.
 
