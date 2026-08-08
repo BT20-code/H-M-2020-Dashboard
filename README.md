@@ -5,7 +5,8 @@ An interactive Power BI dashboard built using the H&M Personalized Fashion Recom
 
 **📊 Dashboard Preview**
 
-https://github.com/BT20-code/H-M-2020-Dashboard/blob/main/H%26M%202020%20Final%20Dashboard.jpg
+<img width="1155" height="649" alt="H M 2020 Final Dashboard" src="https://github.com/user-attachments/assets/4f91431b-b1ef-469b-9563-4976005d763b" />
+
 
 **📌 Project Overview**
 
@@ -40,6 +41,7 @@ The dashboard follows a Star Schema to improve report performance and simplify f
 
 **Fact Table**
 - FactSales
+  
 **Dimension Tables**
 - DimProduct
 - DimDate
@@ -79,6 +81,7 @@ A ranked horizontal bar chart displaying the highest revenue-generating products
 A slicer that dynamically updates every visual — KPI cards, category revenue, channel split, trend, and top SKUs — for focused category-level analysis.
 
 **📊 Key DAX Measures**
+
 - Total Revenue
 - Total Transactions
 - Unique SKUs
@@ -86,6 +89,7 @@ A slicer that dynamically updates every visual — KPI cards, category revenue, 
 - Revenue per SKU
 
 **💡 Key Business Insights**
+
 **📈 Category Performance —** Quickly identifies which merchandise categories contribute the highest revenue, enabling better assortment planning.
 
 **🛍 Product Performance —** Highlights the highest revenue-generating SKUs, helping buyers prioritize replenishment and identify hero products.
@@ -97,10 +101,10 @@ A slicer that dynamically updates every visual — KPI cards, category revenue, 
 **📊 Executive Reporting —** Consolidates multiple retail performance metrics into a single interactive dashboard, reducing manual reporting effort.
 
 **⚡ Challenges & Solutions**
-Large retail dataset (31M+ transactions)	- Preprocessed and optimized data using Python (Pandas)
-Complex relationships between entities	- Implemented a Star Schema data model
-Dynamic reporting requirements	- Built reusable DAX measures and interactive filters
-Dashboard performance at scale	- Reduced model complexity through ETL and optimized data modeling
+- Large retail dataset (31M+ transactions)	- Preprocessed and optimized data using Python (Pandas)
+- Complex relationships between entities	- Implemented a Star Schema data model
+- Dynamic reporting requirements	- Built reusable DAX measures and interactive filters
+- Dashboard performance at scale	- Reduced model complexity through ETL and optimized data modeling
 
 **🎯 Skills Demonstrated**
 
@@ -108,7 +112,7 @@ Power BI Dashboard Development · Data Cleaning & Transformation · Power Query 
 
 **🚀 Key Takeaways**
 
-Built an end-to-end retail analytics solution using Power BI and Python.
-Processed and modeled 31+ million retail transactions into an optimized Star Schema.
-Developed dynamic KPIs and interactive dashboards using DAX and Power Query.
-Delivered actionable insights to support merchandising, category management, and retail business decisions.
+- Built an end-to-end retail analytics solution using Power BI and Python.
+- Processed and modeled 31+ million retail transactions into an optimized Star Schema.
+- Developed dynamic KPIs and interactive dashboards using DAX and Power Query.
+- Delivered actionable insights to support merchandising, category management, and retail business decisions.
